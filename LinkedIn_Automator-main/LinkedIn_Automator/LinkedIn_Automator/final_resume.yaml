@@ -1,0 +1,103 @@
+achievements:
+- description: Implemented npm package to generate JSON Web Tokens from scratch, Implemented
+    Callback Functions in Java, Implemented base64 encoder from scratch
+  name: Technical Achievements
+- description: Finalist in one of the most reputed hackathons in Northern India.
+  name: DevX JMI - Finalist
+- description: Solved more than 400 coding problems across platforms including LeetCode,
+    GeeksforGeeks, and CodeChef.
+  name: Coding Milestone
+availability: {}
+certifications: []
+education_details:
+- education_level: BTech
+  field_of_study: Electronics and Communication
+  final_evaluation_grade: '7.48'
+  institution: Indian Institute of Information Technology Guwahati
+  start_date: '2022'
+  year_of_completion: '2026'
+experience_details:
+- company: CloudDFN
+  employment_period: August 2024 - September 2024
+  location: Guwahati, Assam
+  position: Full Stack Developer Intern
+interests: []
+job_preferences:
+  company_preferences: []
+  date_availability: ''
+  easy_apply_preferred: 'No'
+  experience_level: []
+  workplace_type: []
+languages: []
+legal_authorization:
+  legally_allowed_to_work_in_india: 'No'
+  requires_sponsorship: 'No'
+  requires_visa: 'No'
+  work_authorization: 'No'
+personal_information:
+  address: ''
+  city: ''
+  country: ''
+  date_of_birth: ''
+  email: hardik.srivastav22b@iiitg.ac.in
+  github: https://github.com/thehardiik
+  linkedin: https://www.linkedin.com/in/hardik-srivastav-164728252/
+  name: Hardik
+  phone: '8791917321'
+  phone_prefix: ''
+  surname: Srivastav
+  zip_code: ''
+projects:
+- description: Engineered a rapid, secure, and highly scalable document verification
+    system. Implemented low-level steganographic algorithm to store the authenticity
+    of the document inside itself. Improved system reliability through optimized backend
+    architecture, ensuring secure and efficient data handling.
+  link: https://github.com/thehardiik/Confirmo
+  name: Confirmo
+- description: Developed a scalable social media web-app for designers and photographers.
+    Engineered User Authentication and Registration, Upload Post Feature, Post Grid
+    and User Profile Page. Improved performance by implementing optimistic rendering,
+    which reduced response time to less than 5ms.
+  link: https://github.com/thehardiik/Gridlic
+  name: Gridlic
+- description: Created a platform to hide a secret message inside the pixels of an
+    Image by using steganography. Smooth UI implementation to instantly hide and decode
+    message from pixels of an image within 10ms.
+  link: https://github.com/thehardiik/Trojan-Pixel
+  name: Trojan Pixels
+salary_expectations:
+  salary_range_usd: ''
+self_identification:
+  disability: ''
+  ethnicity: ''
+  gender: ''
+  pronouns: ''
+  veteran: ''
+skills:
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React Native
+- React.js
+- Node.js
+- Express Js
+- Next Js
+- Tailwind CSS
+- Material UI
+- Redux-Toolkit
+- Git
+- Github
+- Postman
+- VS Code
+- IntelliJ
+- MongoDB
+work_preferences:
+  in_person_work: 'No'
+  open_to_relocation: 'No'
+  remote_work: 'No'
+  willing_to_complete_assessments: 'No'
+  willing_to_undergo_background_checks: 'No'
+  willing_to_undergo_drug_tests: 'No'
